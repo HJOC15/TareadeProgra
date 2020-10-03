@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HumbertoOrellanaApp</string>
+    <string name="edit_message">Ingresa el mensaje</string>
+    <string name="button_send">Enviar</string>
+</resources>
